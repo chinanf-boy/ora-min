@@ -2,11 +2,16 @@
 
 > Elegant terminal spinner
 
+> 原作者的
 <p align="center">
 	<br>
-	<img src="screenshot.svg" width="500">
+	<img src="./screenshot.svg" width="500">
 	<br>
 </p>
+
+## live:me
+
+[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
 
 
 ## Install
