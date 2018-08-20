@@ -12,7 +12,7 @@
 ## Install
 
 ```
-$ npm install ora
+npm install ora-min
 ```
 
 <a href="https://www.patreon.com/sindresorhus">
@@ -23,7 +23,7 @@ $ npm install ora
 ## Usage
 
 ```js
-const ora = require('ora');
+const ora = require('ora-min');
 
 const spinner = ora('Loading unicorns').start();
 
