@@ -1,6 +1,6 @@
 {
   "name": "ora-min",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Copy by ora, Elegant terminal spinner use turbocolor",
   "license": "MIT",
   "repository": "chinanf-boy/ora-min",
@@ -35,7 +35,7 @@
     "idle"
   ],
   "dependencies": {
-		"turbocolor": "*",
+    "turbocolor": "*",
     "cli-cursor": "^2.1.0",
     "cli-spinners": "^1.1.0",
     "log-symbols": "^2.2.0",
