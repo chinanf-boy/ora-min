@@ -1,8 +1,9 @@
-# ora [![Build Status](https://travis-ci.org/sindresorhus/ora.svg?branch=master)](https://travis-ci.org/sindresorhus/ora)
+# ora-min [![Build Status](https://travis-ci.org/sindresorhus/ora.svg?branch=master)](https://travis-ci.org/sindresorhus/ora)
 
-> Elegant terminal spinner
+Elegant terminal spinner
 
-> 原作者的
+> `ora` is good, but `chalk` is big, and so many method/color that i no use
+
 <p align="center">
 	<br>
 	<img src="./screenshot.svg" width="500">
@@ -20,6 +21,7 @@
 npm install ora-min
 ```
 
+> sindresorhus 's patreon
 <a href="https://www.patreon.com/sindresorhus">
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
